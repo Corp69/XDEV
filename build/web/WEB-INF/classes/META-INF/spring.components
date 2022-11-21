@@ -1,0 +1,8 @@
+arc.services.api.auth.CtrAcceso=org.springframework.stereotype.Component
+arc.services.api.auth.CtrMenu=org.springframework.stereotype.Component
+arc.services.api.publico.CtrPublicoEvaluaciones=org.springframework.stereotype.Component
+arc.services.app.CorsFilter=javax.ws.rs.ext.Provider
+arc.services.app.HomeController=org.springframework.stereotype.Component
+arc.services.app.JAXRSActivator=javax.ws.rs.ApplicationPath
+arc.services.app.SpringConfiguracion=org.springframework.stereotype.Component
+arc.services.app.SpringSeguridades=org.springframework.stereotype.Component
